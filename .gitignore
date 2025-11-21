@@ -1,5 +1,6 @@
 .vs/
 out/
+output/
 build/
 x64/
 Debug/
